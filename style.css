@@ -137,3 +137,15 @@ audio {
   margin-top: 15px;
   border-radius: 6px;
 }
+.btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #3f72af;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+.btn:hover {
+  background-color: #2c4f74;
+}
