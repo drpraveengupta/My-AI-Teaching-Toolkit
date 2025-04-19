@@ -132,3 +132,8 @@ button:hover {
   color: #333;
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
+audio {
+  width: 100%;
+  margin-top: 15px;
+  border-radius: 6px;
+}
